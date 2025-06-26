@@ -55,7 +55,7 @@ ROOT_URLCONF = 'trydjango.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': ['\programsE\PythonProject1\Test1\trydjango\templates'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
